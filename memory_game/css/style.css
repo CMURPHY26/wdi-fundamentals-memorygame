@@ -88,6 +88,10 @@ footer p {
 	font-family: "Raleway", sans-serif;
 }
 
+footer h2 {
+	color: white;
+}
+
 .copywright {
 	float: left;
 }
@@ -117,3 +121,21 @@ nav a {
 nav a:hover {
 	border-bottom: 2px solid white;
 }
+
+button {
+	color: #F15B31;
+	font-weight: 700;
+	font-size: 20px;
+	margin-top: 50px;
+	border: 3px solid #0D2C40;
+	border-radius: 10px;
+}
+
+#score {
+	font-family: "Raleway", sans-serif;
+	color: #0D2C40;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+}
+
